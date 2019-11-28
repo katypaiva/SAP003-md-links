@@ -317,6 +317,7 @@ Para esse projeto recomendamos o uso de [expressões regulares
 * [Path](https://nodejs.org/api/path.html)
 * [Criando sua CLI com
   Node.js](https://medium.com/henriquekuwai/criando-sua-cli-com-node-js-d6dee7d03110)
+* [KATY](http://nodejs.org/api/path.html)
 
 ## 8. Checklist
 

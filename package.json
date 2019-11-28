@@ -1,10 +1,10 @@
 {
-  "name": "sap003-md-links",
+  "name": "md-links",
   "version": "1.0.0",
   "description": "## Índice",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/katypaiva/SAP003-md-links/issues"
   },
-  "homepage": "https://github.com/katypaiva/SAP003-md-links#readme"
+  "homepage": "https://github.com/katypaiva/SAP003-md-links#readme",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "jest": "^24.9.0"
+  },
+  "bin": {
+    "md-links": "cli.js"
+  }
 }
